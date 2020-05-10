@@ -1,3 +1,0 @@
-- O score foi 70% segundo o keagle.
-- The Score was 70% according to keagle.
-- [titanic](https://www.kaggle.com/c/titanic)
