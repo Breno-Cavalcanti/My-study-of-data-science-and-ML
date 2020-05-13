@@ -1,0 +1,3 @@
+A acurácia foi 75% segundo o Keagle.
+The accuracy was 75% according to Keagle.
+[source](https://www.kaggle.com/c/titanic)
