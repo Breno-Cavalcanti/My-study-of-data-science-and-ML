@@ -1,2 +1,2 @@
-In this project i used the KNN algorithm to predict if a student will pass or not based on some parameters
-[source](https://archive.ics.uci.edu/ml/datasets/Student+Performance)
+- In this project i used the KNN algorithm to predict if a student will pass or not based on some parameters
+- [source](https://archive.ics.uci.edu/ml/datasets/Student+Performance)
