@@ -1,2 +1,2 @@
-- In this project i used pytorch to predict a class of a image.
+- In this project i used pytorch to predict a class of an image.
 - [source](https://www.kaggle.com/tongpython/cat-and-dog?)
